@@ -76,7 +76,7 @@ export default function LandingPage() {
       title="Artistry in Every Bloom"
       description="Panda Studio was born from a passion for botanical aesthetics and sustainable floristry. We source locally, design organically, and deliver joy."
       subdescription="Every arrangement is hand-selected to match your vision and elevate your space."
-      imageSrc="https://pixabay.com/get/gf73d401af96dfa0675e9bd6981e19e8830559f02590ca9dcfb4eecd527cdf6c9ada5084470db25babec503b0a503babb544a4ace30e4a285954989ba682c0a6e_1280.jpg"
+      imageSrc="https://pixabay.com/get/gf73d401af96dfa0675e9bd6981e19e8830559f02590ca9dcfb4eecd527cdf6c9ada5084470db25babec503b0a503babb544a4ace30e4a285954989ba682c0a6e_1280.jpg?_wi=1"
       mediaAnimation="slide-up"
       icon={Sun}
       imageAlt="Florist arranging flowers in a studio"
@@ -178,7 +178,7 @@ export default function LandingPage() {
       title="Ready for a Custom Bouquet?"
       description="Share your vision with us, and we will create the perfect floral experience for you."
       mediaAnimation="slide-up"
-      imageSrc="https://pixabay.com/get/gf73d401af96dfa0675e9bd6981e19e8830559f02590ca9dcfb4eecd527cdf6c9ada5084470db25babec503b0a503babb544a4ace30e4a285954989ba682c0a6e_1280.jpg"
+      imageSrc="https://pixabay.com/get/gf73d401af96dfa0675e9bd6981e19e8830559f02590ca9dcfb4eecd527cdf6c9ada5084470db25babec503b0a503babb544a4ace30e4a285954989ba682c0a6e_1280.jpg?_wi=2"
     />
   </div>
 
